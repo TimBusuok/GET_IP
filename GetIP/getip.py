@@ -4,7 +4,12 @@ import sys
 
 
 
-print( figlet_format("GET IP", font = "isometric3" ) )
+print("  ____ _____ _____   ___ ____")
+print(" / ___| ____|_   _| |_ _|  _ \ ")
+print("| |  _|  _|   | |    | || |_) |")
+print("| |_| | |___  | |    | ||  __/")
+print(" \____|_____| |_|   |___|_| ")
+
 print("If you want help then write help")
 
 while(True):
